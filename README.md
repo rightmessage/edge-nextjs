@@ -8,7 +8,7 @@ Requires Node.js 20+, Next.js 15–16 and React 19.
 
 ```sh
 # Before the first npm release:
-npm install github:rightmessage/edge-nextjs#main
+npm install @rightmessage/next
 # After npm publishing is enabled:
 npm install @rightmessage/next
 ```

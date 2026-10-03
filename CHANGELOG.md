@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+- Depend on the published `@rightmessage/edge@^0.1.0` package instead of a Git tag.
+
 ## 0.1.0
 
 - Official-loader bootstrap with revision pin support and loader-error reveal.
