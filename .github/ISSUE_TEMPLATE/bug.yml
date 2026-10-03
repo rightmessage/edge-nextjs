@@ -1,0 +1,9 @@
+name: Bug report
+description: Report a reproducible SDK problem
+body:
+  - type: textarea
+    attributes:
+      label: Reproduction and expected behavior
+      description: Include SDK, Next, React, and Node versions. Remove visitor data and credentials.
+    validations:
+      required: true

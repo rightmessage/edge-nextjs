@@ -1,0 +1,19 @@
+{
+  "name": "rightmessage-next-example",
+  "private": true,
+  "scripts": {
+    "build": "next build --webpack",
+    "start": "next start --port 3210",
+    "dev": "next dev --port 3210"
+  },
+  "dependencies": {
+    "next": "^16.0.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@types/react": "^19.2.0",
+    "@types/node": "^22.18.0"
+  }
+}
